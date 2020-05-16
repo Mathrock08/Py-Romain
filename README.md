@@ -1,2 +1,8 @@
 # Py-Romain
-Programme permettant de convertir des nombres entiers en chiffres romains
+Programme python permettant de convertir des nombres entiers en chiffres romains
+
+- Lancer le programme, une boîte de dialogue apparaît
+- Rentrer le nombre (sous forme arabe) choisit
+- La magie opère, le programme sort le nombre en chiffres romains
+
+(Le code est commenté pour permettre de mieux comprendre son fonctionnement)
